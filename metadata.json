@@ -1,0 +1,5 @@
+{
+  "name": "Training Attendance Pro",
+  "description": "Một ứng dụng điểm danh tập huấn chuyên nghiệp với khả năng quản lý danh sách, tích hợp AI để phân tích dữ liệu và hướng dẫn kết nối Google Sheets.",
+  "requestFramePermissions": []
+}
